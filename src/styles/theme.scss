@@ -38,3 +38,9 @@
 // Templates
 @import './templates/gift_card';
 @import './templates/product';
+
+.testdiv {
+  background-color: red;
+  z-index: 1000;
+  position: absolute;
+}

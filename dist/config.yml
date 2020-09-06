@@ -1,0 +1,6 @@
+default:
+  password: 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
+  theme_id: "110894645413"
+  store: clout-gatsby.myshopify.com
+  ignore_files:
+  - config/settings_data.json
